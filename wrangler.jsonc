@@ -1,7 +1,9 @@
 {
   "name": "personal-website",
   "compatibility_date": "2026-01-01",
+  "main": "_worker.js",
   "assets": {
-    "directory": "./portfolio.html"
+    "directory": ".",
+    "run_worker_first": true
   }
 }
